@@ -1,2 +1,2 @@
-# Primero-CRUD
+# Primeiro-CRUD
 Primeiro CRUD com Spring Boot
